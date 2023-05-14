@@ -14,6 +14,7 @@ The first case is regarding the linear combination: "*Mallet 2* - *String 1* + *
 
 
 For the second combination, we use the linear combination: "*Keyboard 1* + 0.4 x *Organ 2* - 0.4 x *String 4*". The resulting spectrogram is shown below.
+
 ![Alt text](Examples/Example2.jpg?raw=true "Example 2")
 
 
